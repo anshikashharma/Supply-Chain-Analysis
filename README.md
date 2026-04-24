@@ -23,8 +23,7 @@ Analysis of a global e-commerce dataset (172K+ orders) to identify causes of lat
   - First Class: 100% delay  
   - Second Class: 79.8%  
 - Profit per order is stable → issue is *volume of delays*  
-- Peak delays during *Aug–Sep and Dec*  
-- Payment-related statuses show higher delay rates  
+- Peak delays during *Aug–Sep and Dec*    
 
 ---
 
