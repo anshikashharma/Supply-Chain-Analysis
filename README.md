@@ -53,7 +53,4 @@ Analysis of a global e-commerce dataset (172K+ orders) to identify causes of lat
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn)  
-- Power BI  
-- SQL  
-
 
